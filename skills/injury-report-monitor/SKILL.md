@@ -7,8 +7,8 @@ description: >-
   Triggers: injury report, injury alert, player injuries, injury updates, fantasy injuries,
   who is out, injury news, lineup changes, player availability, day-to-day, questionable,
   roster status.
-author: live-data-tools
-repository: https://github.com/live-data-tools/injury-report-monitor
+author: buildkit-ai
+repository: https://github.com/buildkit-ai/injury-report-monitor
 license: MIT
 ---
 
