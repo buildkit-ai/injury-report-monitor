@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "shipp-injuries"
+name = "injury-report-monitor"
 version = "0.1.0"
 description = "Aggregated injury reports for NBA, MLB, and Soccer with player status tracking"
 readme = "README.md"
@@ -21,4 +21,4 @@ Homepage = "https://github.com/buildkit-ai/injury-report-monitor"
 Repository = "https://github.com/buildkit-ai/injury-report-monitor"
 
 [tool.hatch.build.targets.wheel]
-packages = ["shipp_injuries"]
+packages = ["injury_report_monitor"]
