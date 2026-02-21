@@ -45,8 +45,6 @@ so the tool can flag relevant injuries):
 export SHIPP_API_KEY="your-api-key-here"
 ```
 
-Get one at [platform.shipp.ai](https://platform.shipp.ai).
-
 ### 2. Install Dependencies
 
 ```bash
@@ -187,7 +185,3 @@ All sources are public HTML pages scraped with polite intervals:
 ## License
 
 MIT
-
----
-
-<sub>Powered by [Shipp.ai](https://shipp.ai) real-time data</sub>
